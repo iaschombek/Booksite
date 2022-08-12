@@ -8,10 +8,12 @@ h1{
 }
 p{
 font-size: 27px;
-font-family: Comic Sans MS, Comic Sans, cursive;
+font-family: Comic Sans MS, cursive;
 margin-right: 5%
 }
-
+#borda1{
+border: 10px double color: black
+}
 
 #livro{
   margin-left: 5%
