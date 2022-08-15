@@ -12,7 +12,7 @@ font-family: Comic Sans MS, cursive;
 margin-right: 5%
 }
 #borda1{
-border: 10px double color: black
+border: 10px solid color: black
 }
 
 #livro{
@@ -29,9 +29,11 @@ img {
   display: flex;
 }
 h2{
+border: 10px solid color: black;
 font-family: Snell Roundhand, cursive;
 font-size: 45px;
 text-align: justify;color: #FF00FF;
+
 }
 
 .Classicos{
