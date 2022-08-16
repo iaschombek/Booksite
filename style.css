@@ -2,17 +2,16 @@ body{
 background-color: 	#E0FFFF
 }
 
-#logo{
-  border: solid;
-  border-width: 5px;
-  width: 10%
+.logo{
+  display: inline-block; vertical-align: inherit;
+object-fit: contain;
 }
 .abas{
   font-size: 27px;
   font-family: cursive;
 }
 #Booksite{
-  background: #00BFFF; font-size: 5px; text-align: center; padding: 4px;
+  background: #00BFFF; font-size: 0,05%; text-align: center; padding: 0,05%;
 }
 
 h1{
