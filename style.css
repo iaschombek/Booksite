@@ -2,7 +2,7 @@ body{
 background-color: 	#E0FFFF
 }
 
-.logo{
+#logo{
   display: inline-block; vertical-align: inherit;
 object-fit: contain;
 }
@@ -11,7 +11,7 @@ object-fit: contain;
   font-family: cursive;
 }
 #Booksite{
-  background: #00BFFF; font-size: 0,05%; text-align: center; padding: 0,05%;
+  background: #00BFFF; font-size: 0,10%; text-align: center; padding: 0,10%;
 }
 
 h1{
@@ -24,12 +24,11 @@ font-size: 27px;
 font-family: Comic Sans MS, cursive;
 margin-right: 5%
 }
-#borda1{
-border: 10px solid color: black
-}
+
 
 #livro{
-  margin-left: 5%
+  margin-left: 5%; border: 5px solid #000;
+  text-align: justify;
 }
 
 
