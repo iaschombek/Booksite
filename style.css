@@ -2,13 +2,14 @@ body{
 background-color: 	#E0FFFF
 }
 
-#logo{
-  display: inline-block; vertical-align: inherit;
+.logo{
+  display: inline-block; vertical-align: bottom;
 object-fit: contain;
 }
 .abas{
   font-size: 27px;
   font-family: cursive;
+background-color: #04bbfc
 }
 #Booksite{
   background: #00BFFF; font-size: 0,10%; text-align: center; padding: 0,10%;
@@ -24,10 +25,13 @@ font-size: 27px;
 font-family: Comic Sans MS, cursive;
 margin-right: 5%
 }
-
+.frase{
+  border: 5px double #029b99;
+  tex
+}
 
 #livro{
-  margin-left: 5%; border: 5px solid #000;
+  margin-left: 1,5%; border: 5px solid #000;
   text-align: justify;
 }
 
@@ -45,7 +49,7 @@ border: 10px solid color: black;
 font-family: Snell Roundhand, cursive;
 font-size: 45px;
 text-align: justify;color: #FF00FF;
-
+background-color: #04bbfc
 }
 
 .Classicos{
