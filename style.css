@@ -2,15 +2,22 @@ body{
 background-color: 	#E0FFFF
 }
 
-.logo{
-  display: inline-block; vertical-align: bottom;
-object-fit: contain;
-}
 .abas{
   font-size: 27px;
   font-family: cursive;
-background-color: #04bbfc
+background-color: #04bbfc;
 }
+#clá{
+  border: 2px solid #80caf2; background: #0ccaba
+
+}
+#fant{
+border: 2px solid #80caf2; background: #0ccaba
+}
+#séries{
+  border: 2px solid #80caf2; background: #0ccaba
+}
+
 #Booksite{
   background: #00BFFF; font-size: 0,10%; text-align: center; padding: 0,10%;
 }
@@ -20,19 +27,20 @@ h1{
   font-family: OCR A Std, monospace;
   font-size: 60px; color:#C71585
 }
+
 p{
-font-size: 27px;
+font-size: 35px;
 font-family: Comic Sans MS, cursive;
-margin-right: 5%
+margin-right: 5%;
 }
 .frase{
   border: 5px double #029b99;
-  tex
+  object-fit: contain;
 }
 
-#livro{
-  margin-left: 1,5%; border: 5px solid #000;
-  text-align: justify;
+.livro{
+  margin-left: 1,5%;
+
 }
 
 
@@ -52,17 +60,28 @@ text-align: justify;color: #FF00FF;
 background-color: #04bbfc
 }
 
-.Classicos{
+.margem{
   margin: 3%
 }
 
 h3{
+  border: 10px solid color: black;
   font-family: Snell Roundhand, cursive;
   font-size: 45px;
   text-align: justify;color: #FF00FF;
+  background-color: #04bbfc
 }
+.margem2{
+  margin: 3%
+}
+
 h4{
+  border: 10px solid color: black;
   font-family: Snell Roundhand, cursive;
   font-size: 45px;
   text-align: justify;color: #FF00FF;
+  background-color: #04bbfc
+}
+.margem3{
+  margin: 3%
 }
